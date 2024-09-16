@@ -4,8 +4,7 @@ Aspiring Software Engineer documenting my journey
 🌍  Based in Canada.
 ⚡  Open to learning new technologies.
 
-Current Tech Stack:
-GitVS CodeReactTailwindCSSNextJsNodeJSExpressPostgreSQLMongoDB
+
 <!--
 **mhassan04/mhassan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
