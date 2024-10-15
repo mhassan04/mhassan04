@@ -1,4 +1,4 @@
-## Hi 👋 Mahamed Hassan | Fullstack Developer
+## Hi 👋 Mahamed Hassan | Full Stack Developer
 
 
 * 🎓 Computer Science Grad, York University
